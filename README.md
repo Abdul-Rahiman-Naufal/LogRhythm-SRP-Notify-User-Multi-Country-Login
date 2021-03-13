@@ -7,4 +7,4 @@ This SRP has 2 actions:
 
 This SRP will send email notification to user when LR observes successful authentication from another country.
 
-Note: This SRP should be added as action in "Concurrent Authentication Success from Multiple Locations" AIE rule.
+Note: This SRP can be added as action in "Concurrent Authentication Success from Multiple Locations" AIE rule.
